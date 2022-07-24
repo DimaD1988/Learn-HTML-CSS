@@ -6,4 +6,6 @@ Started: 21.06.2022, Finished 16.07.2022
  https://friendly-starburst-6392d6.netlify.app
  
  
- 01-05 Sections (my practic in basic HTML / CSS)
+ 01-04 Sections (my practic in basic HTML / CSS)
+ 05-Section (design part)
+ 06-Section (components)
