@@ -9,3 +9,4 @@ Started: 21.06.2022, Finished 16.07.2022
  01-04 Sections (my practic in basic HTML / CSS)
  05-Section (design part)
  06-Section (components)
+ 2 Slides - Flex and Grid (save)
