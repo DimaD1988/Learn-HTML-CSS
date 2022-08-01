@@ -11,3 +11,4 @@ Started: 21.06.2022, Finished 16.07.2022
  06-Section (components)
  2 Slides - Flex and Grid (save)
  07-Section Start Big project - Omniffod
+ 08-Section middle part of Omniffod
